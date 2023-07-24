@@ -1,7 +1,19 @@
 # TPLite
 TPLite: TPL dependency scanner with origin detection and centrality analysis
 
+## Publication
+[Third-Party Library Dependency for Large-Scale SCA in the C/C++ Ecosystem: How Far Are We?](https://dl.acm.org/doi/10.1145/3597926.3598143), ISSTA'2023
 
+```
+@inproceedings{jiang2023third,
+  title = {Third-Party Library Dependency for Large-Scale SCA in the C/C++ Ecosystem: How Far Are We?},
+  author = {Jiang, Ling and Yuan, Hengchen and Tang, Qiyi and Nie, Sen and Wu, Shi and Zhang, Yuqun},
+  doi = {10.1145/3597926.3598143},
+  booktitle = {Proceedings of the 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis},
+  pages = {1383-1395},
+  year = {2023}
+}
+```
 
 ##  Environment
 
